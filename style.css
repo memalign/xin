@@ -1,0 +1,6 @@
+body {background:#ffffff url('background.jpg') no-repeat; background-size: 100%;}
+#tail {
+    position: absolute;
+    float: left;
+    bottom: 2px;
+    }
